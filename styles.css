@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+canvas {
+    border: 1px solid #ccc;
+    margin-top: 10px;
+}
